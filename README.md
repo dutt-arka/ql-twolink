@@ -1,6 +1,7 @@
 # rl-theint
 "The Intern"--My code for RL applications at IIITA.
 ## There are three files in this section:
+------------------------------------------------
 **main.py** is the main coding file.
 **env.py** describes the enviornment.
 **rl.py** runs the reinforcement learning algorithms.
