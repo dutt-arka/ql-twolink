@@ -14,6 +14,6 @@
 -------------------------------------------------------
 The basis of the robot and the theory can be accessed from [FloydHub blog](https://blog.floydhub.com/robotic-arm-control-deep-reinforcement-learning/)
 
-The idea for this two link manipulator was forked from [Morvan Zhou's post](https://github.com/MorvanZhou/train-robot-arm-from-scratch0
+The idea for this two link manipulator was forked from [Morvan Zhou's post](https://github.com/MorvanZhou/train-robot-arm-from-scratch)
 
 For more about RL and the Robotics,I've written a blog post @ [my blog](https://feruxhi.github.io/thoughts)
